@@ -1,4 +1,4 @@
-baseurl             = "https://perforb.com/"
+baseurl             = "https://perforb.github.io/business-card/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
