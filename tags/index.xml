@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Personal page</title>
-    <link>/personal/tags/</link>
+    <link>http://perforb.github.io/personal-page/tags/</link>
     <description>Recent content in Tags on A Personal page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/personal/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://perforb.github.io/personal-page/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
