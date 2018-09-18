@@ -1,6 +1,6 @@
 baseurl = "/personal"
 languageCode = "en-us"
-title = "A Personal website"
+title = "A Personal page"
 theme = "xmin"
 googleAnalytics = ""
 disqusShortname = ""
