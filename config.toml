@@ -20,4 +20,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; perforb 2018"
+    footer = "&copy; perforb.com 2018"
