@@ -1,4 +1,4 @@
-baseurl = "http://perforb.github.io/personal-page/"
+baseurl = "http://www.perforb.com/"
 canonifyurls = true
 languageCode = "en-us"
 title = "A Personal page"
