@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://perforb.github.io/personal-page/categories/</loc>
+    <loc>http://www.perforb.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://perforb.github.io/personal-page/</loc>
+    <loc>http://www.perforb.com/</loc>
   </url>
   
   <url>
-    <loc>http://perforb.github.io/personal-page/tags/</loc>
+    <loc>http://www.perforb.com/tags/</loc>
     <priority>0</priority>
   </url>
   
