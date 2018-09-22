@@ -6,7 +6,7 @@ title: Home
 
 # ABOUT ME
 
-I'm a software engineer specializing in server side such as web applications, database engineering, and infrastructure engineering.
+I'm a software engineer specializing in server side such as web applications, as well as providing database engineering and infrastructure engineering.
 
 I’m fluent in Java and Japanese. I’ve also written a good amount of JavaScript, Python, and SQL. I learn quickly, care about detail, and like computer science.
 
