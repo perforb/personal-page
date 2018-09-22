@@ -12,7 +12,7 @@ script:
   - hugo -v
 
 deploy:
-  fqdn: www.perforb.com
+  fqdn: perforb.com
   provider: pages
   local-dir: public
   skip-cleanup: true
