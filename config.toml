@@ -1,9 +1,9 @@
-baseurl = "http://www.perforb.com/"
+baseurl = "https://perforb.com/"
 canonifyurls = true
 languageCode = "en-us"
 title = "A Personal page"
 theme = "xmin"
-googleAnalytics = "UA-35860999-1"
+googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
