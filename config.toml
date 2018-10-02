@@ -1,7 +1,7 @@
 baseurl = "https://perforb.com/"
 canonifyurls = true
 languageCode = "en-us"
-title = "A Personal page"
+title = "perforb.com"
 theme = "xmin"
 googleAnalytics = ""
 disqusShortname = ""
