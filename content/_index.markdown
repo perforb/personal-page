@@ -8,8 +8,6 @@ title: Home
 
 I'm a software engineer specializing in server side such as web applications, as well as providing database engineering and infrastructure engineering.
 
-I’m fluent in Java and Japanese. I’ve also written a good amount of JavaScript, Python, and SQL. I learn quickly, care about detail, and like computer science.
-
 # LINKS
 
 * [GitHub](https://github.com/perforb)
