@@ -6,7 +6,7 @@ title: Home
 
 # ABOUT ME
 
-I'm a software engineer specializing in server side such as web applications, as well as providing database engineering and infrastructure engineering.
+I'm a software engineer specializing in server side such as web applications, as well as providing database and infrastructure engineering.
 
 # LINKS
 
