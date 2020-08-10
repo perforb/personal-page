@@ -9,7 +9,7 @@ I'm Yusuke Maeda, living in Tokyo.
 
 I'm a software engineer specializing in server side such as web applications, as well as providing database and infrastructure engineering.
 
-# Activity
+# Accounts
 
 * [GitHub](https://github.com/perforb)
 * [Scrapbox](https://scrapbox.io/perforb)
